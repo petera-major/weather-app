@@ -15,3 +15,5 @@ A simple and responsive weather app built with **React** and **Vite**, powered b
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [OpenWeatherMap API](https://openweathermap.org/api)
+
+Deployed Website: https://weatherappt-crepe-47b56f.netlify.app
